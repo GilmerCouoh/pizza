@@ -10,7 +10,7 @@
 
     <!-- Botón de regresar al login -->
     <div class="absolute top-4 right-4">
-        <a href="/view_login.php"
+        <a href="docs/view_login.php"
            class="bg-[#f45c33] text-white font-semibold py-2 px-4 rounded-lg hover:underline">
             Volver al Login
         </a>
@@ -60,4 +60,5 @@
 
     <script src="validar_usuario.js"></script>
 </body>
+
 </html>
